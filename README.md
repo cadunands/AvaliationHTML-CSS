@@ -1,2 +1,2 @@
 # Avaliação de HTML-CSS
-Aqui é a minha avaliação de HTML e CSS, é um pouco tímido mas é só o começo 🦓
+um projetinho feito para avaliação de HTML e CSS, é um pouco tímido mas é só o começo 🦓
