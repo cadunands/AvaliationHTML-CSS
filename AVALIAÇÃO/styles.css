@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;500&display=swap');
+
+
+:root{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+
+h1{
+    font-family: var(sans-serif);
+    text-align: center;
+    --texto-branco:#f5f7f8;
+}
+
+
+
+body{
+    background-color:#4682B4;
+}
+
+video{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
